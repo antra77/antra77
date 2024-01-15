@@ -8,6 +8,7 @@ I'm a passionate and results-driven Fullstack Developer with a solid background 
 - **Backend:** Node.js, Express, Django
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, Webpack
+- **Mobile App Development:** Flutter, Dart
 - **Design:** Figma,Canva
 - **Other:** RESTful APIs
 
