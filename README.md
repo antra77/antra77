@@ -21,9 +21,9 @@ I'm always eager to stay updated with the latest technologies. Currently, I'm di
 
 ## 📫 Let's Connect
 
-- LinkedIn: 
+- LinkedIn:https://www.linkedin.com/in/antrasaraf20/ 
 - Portfolio:
-- Behance:
+- Behance:https://www.behance.net/antrasaraf
 - Email: 
 
 Feel free to reach out if you want to collaborate, discuss technology, or just chat about coding and development. Looking forward to connecting with like-minded professionals!
