@@ -4,7 +4,7 @@ I'm a passionate and results-driven Fullstack Developer with a solid background 
 
 ## 🚀 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React,Next.js
 - **Backend:** Node.js, Express, Django
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, Webpack
@@ -25,6 +25,6 @@ I'm always eager to stay updated with the latest technologies. Currently, I'm di
 - LinkedIn:https://www.linkedin.com/in/antrasaraf20/ 
 - Portfolio:
 - Behance:https://www.behance.net/antrasaraf
-- Email: 
+- Email: antra.saraf@gmail.com
 
 Feel free to reach out if you want to collaborate, discuss technology, or just chat about coding and development. Looking forward to connecting with like-minded professionals!
