@@ -72,9 +72,10 @@ I'm a full-stack developer and designer based in India, with a passion for creat
 
 ## 📫 Connect with Me:
 
-- [LinkedIn](YourLinkedInURL)
-- [Behance](YourBehanceURL)
-- [Portfolio](YourPortfolioURL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antrasaraf20)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/antrasaraf)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](YourPortfolioURL)
+
 
 
 I'm looking forward to creating something amazing together.
