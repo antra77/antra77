@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-![Creative GIF](URL_of_your_gif)
+(<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>)
 
 I'm a full-stack developer and designer based in India, with a passion for creating seamless user experiences and efficient, scalable systems. With a strong foundation in both front-end and back-end technologies, as well as a keen eye for design, I'm actively seeking opportunities to bring my diverse skill set to solve challenging problems and contribute to impactful projects.
 
