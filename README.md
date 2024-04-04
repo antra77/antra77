@@ -76,7 +76,6 @@ I'm a full-stack developer and designer based in India, with a passion for creat
 - [Behance](YourBehanceURL)
 - [Portfolio](YourPortfolioURL)
 
-![Creative GIF](URL_of_your_gif)
 
 I'm looking forward to creating something amazing together.
 
