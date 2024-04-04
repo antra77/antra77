@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV6cG9pcWtxN203bXBmeDM1aDBxZmJpc2E0bmlyemg1dGZ6NGRjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV6cG9pcWtxN203bXBmeDM1aDBxZmJpc2E0bmlyemg1dGZ6NGRjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 I'm a full-stack developer and designer based in India, with a passion for creating seamless user experiences and efficient, scalable systems. With a strong foundation in both front-end and back-end technologies, as well as a keen eye for design, I'm actively seeking opportunities to bring my diverse skill set to solve challenging problems and contribute to impactful projects.
 
