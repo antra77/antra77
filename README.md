@@ -69,14 +69,22 @@ I'm a full-stack developer and designer based in India, with a passion for creat
 ### 💼 Productivity Tools
 
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 ## 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antrasaraf20)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/antrasaraf)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](YourPortfolioURL)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antra.saraf@gmail.com)
 
 
 
-I'm looking forward to creating something amazing together.
+
+🚀 Let's collaborate, innovate, and create something extraordinary together! I'm excited to connect with like-minded individuals who are passionate about technology, design, and making a positive impact. Reach out 📩, and let's bring our ideas to life! 💡
 
